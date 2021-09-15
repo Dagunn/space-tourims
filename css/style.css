@@ -185,4 +185,8 @@ body {
 .header__description-text + .header__description-text {
   margin-left: 52px;
 }
+
+.about {
+  background-color: black;
+}
 /*# sourceMappingURL=style.css.map */
